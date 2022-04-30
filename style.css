@@ -1,0 +1,11 @@
+body{
+    background-color: pink;
+    color:aliceblue;
+    margin: 10px;
+    border-style: dotted;
+}
+#heading{
+    background-color: crimson;
+    font-size: 40px;
+    font-family: 'Comic Neue', cursive;
+}
